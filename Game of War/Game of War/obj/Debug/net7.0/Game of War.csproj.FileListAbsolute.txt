@@ -1,0 +1,15 @@
+C:\Users\sash3\source\repos\Game of War\Game of War\bin\Debug\net7.0\Game of War.exe
+C:\Users\sash3\source\repos\Game of War\Game of War\bin\Debug\net7.0\Game of War.deps.json
+C:\Users\sash3\source\repos\Game of War\Game of War\bin\Debug\net7.0\Game of War.runtimeconfig.json
+C:\Users\sash3\source\repos\Game of War\Game of War\bin\Debug\net7.0\Game of War.dll
+C:\Users\sash3\source\repos\Game of War\Game of War\bin\Debug\net7.0\Game of War.pdb
+C:\Users\sash3\source\repos\Game of War\Game of War\obj\Debug\net7.0\Game of War.csproj.AssemblyReference.cache
+C:\Users\sash3\source\repos\Game of War\Game of War\obj\Debug\net7.0\Game of War.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sash3\source\repos\Game of War\Game of War\obj\Debug\net7.0\Game of War.AssemblyInfoInputs.cache
+C:\Users\sash3\source\repos\Game of War\Game of War\obj\Debug\net7.0\Game of War.AssemblyInfo.cs
+C:\Users\sash3\source\repos\Game of War\Game of War\obj\Debug\net7.0\Game of War.csproj.CoreCompileInputs.cache
+C:\Users\sash3\source\repos\Game of War\Game of War\obj\Debug\net7.0\Game of War.dll
+C:\Users\sash3\source\repos\Game of War\Game of War\obj\Debug\net7.0\refint\Game of War.dll
+C:\Users\sash3\source\repos\Game of War\Game of War\obj\Debug\net7.0\Game of War.pdb
+C:\Users\sash3\source\repos\Game of War\Game of War\obj\Debug\net7.0\Game of War.genruntimeconfig.cache
+C:\Users\sash3\source\repos\Game of War\Game of War\obj\Debug\net7.0\ref\Game of War.dll
